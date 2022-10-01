@@ -1,0 +1,25 @@
+    body {background-color: tan;}
+    .first { background-color: cyan;
+    border: solid black;
+    }
+    h1 { color:green;
+    }
+    #second {color: red; }
+    .third { background-color: antiquewhite;}
+    .fourth {background-color: green;
+    color: white;
+    border: 2px solid black; }
+    .fifth {background-color: red;
+    color: white;
+      border: 2px solid black;
+    }
+    .sixth { background-color:  antiquewhite;
+      font-size:20px; }
+        #first {background-color: grey;
+          font-size: 25px;
+        }
+      #third {background-color: tan;}
+      .seventh {background-color: green;
+        color: white;
+        border: 2px solid black; }
+        marquee {font-size: 30px;}
